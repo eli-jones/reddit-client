@@ -1,0 +1,58 @@
+#slider {
+    background-color: darkorange;
+    height: 100vh;
+    width: 100vw;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ #menuHead {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 30vh;
+}
+
+.menuList {
+    width: 65%;
+}
+
+.menuList p {
+    background-color: white;
+    align-content: center;
+    color: darkorange;
+    height: 2rem;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+
+.buttonRow {
+    display: flex;
+    align-items: flex-start;
+}
+
+button {
+    all: unset;    
+    font-weight: bold;
+    background-color: white;
+    border-radius: 25px;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-bottom: 30vh;
+}
+
+button img {
+    display: flex;
+    align-self: center;
+    margin: auto;
+    width: 25px;
+    height: auto;
+    
+}
+
+.close {
+    margin-left: 4vw;
+}

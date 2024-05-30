@@ -1,0 +1,40 @@
+.darkMode {
+    
+    h1, h2, h3, h4, h5, h6, p {
+        color: white;
+    }
+    
+    .header-container {
+        background-color: #1c1c1b;
+    }
+    
+    .wrapper {
+        background-color:  #262625;
+    }
+    
+    .outerContainer {
+        background-color: #1c1c1b;
+        border-bottom: 1px solid black;
+        border-right: 1px solid black;
+    }
+    
+    #slider {
+        background-color: #1c1c1b;
+    }
+    
+    .menuList p {
+        background-color: darkorange;
+    }
+    
+}
+
+.dmImage {
+    background-color: white;
+    width: 30px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.sun {
+    width: 40px;
+}

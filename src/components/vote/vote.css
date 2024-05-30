@@ -1,0 +1,11 @@
+.voteContainer {
+    text-align: center;
+}
+
+img {
+    width: 1rem;
+}
+
+.voteUp {
+    transform: rotate(180deg);
+}

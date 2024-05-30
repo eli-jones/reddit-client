@@ -1,0 +1,23 @@
+.header-container {
+    width: 100vw;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+}
+
+h1 {
+    font-family: "DM Sans", sans-serif;
+    align-content: center;
+}
+
+#menuIcon {
+    width: 30px;
+    margin-left: 4vw;
+}
+
+#searchIcon {
+    width: 35px;
+    margin-right: 4vw;
+}

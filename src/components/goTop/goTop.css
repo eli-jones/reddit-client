@@ -1,0 +1,6 @@
+.goTopArrow {
+    transform: rotate(90deg);
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 89vw;
+}

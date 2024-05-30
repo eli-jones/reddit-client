@@ -1,0 +1,18 @@
+.commentContainer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.commentContainer img {
+    align-content: center;
+    width: 20px;
+    margin-left: -4px;
+}
+
+.commentContainer p {
+    margin-left: 10px;
+    font-size: 0.8em;
+    align-content: center;
+    color: dimgray;
+}

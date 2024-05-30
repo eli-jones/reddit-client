@@ -1,0 +1,44 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: "DM Sans", sans-serif;
+    margin: unset;
+}
+
+h5, h6 {
+    font-size: 12px;
+}
+
+h3 {
+    font-size: 22px;
+    padding-top: 10px;
+}
+
+.username {
+    font-weight: normal;
+    color: darkorange;
+}
+
+.outerContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 90vw;
+    margin: auto;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+
+.innerContainer {
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-self: flex-start;
+}
+
+.postInfo {
+    display: flex;
+    justify-content: space-between;
+}
